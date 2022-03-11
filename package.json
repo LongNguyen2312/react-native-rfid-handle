@@ -1,5 +1,5 @@
 {
-  "name": "RNrfid",
+  "name": "react-native-rfid-handle",
   "version": "0.0.1",
   "description": "RFID component for react native, only works Android.",
   "main": "index.js",
@@ -11,7 +11,7 @@
     "react-native": "0.67.3"
   },
   "keywords": [
-    "react-native-rfid",
+    "react-native-rfid-handle",
     "rfid",
     "sled reader",
     "react-component",
